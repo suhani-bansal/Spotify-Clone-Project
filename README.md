@@ -1,9 +1,8 @@
-# Developer 
+# Developer:
+    Created by Suhani under guidance of apna college's Delta 1.O course.
 
-Created by Suhani
- 
-# Project Name and Info
+ # Project Name and Info:
+    Spotify clone using HTML and CSS. 
+    CSS major project.
+    Frontend mini project.
 
-Spotify clone using HTML and CSS. 
-CSS major project.
-Frontend mini project.
